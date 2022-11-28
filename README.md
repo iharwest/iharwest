@@ -9,6 +9,5 @@
 <a href="mailto:dkphobos@yandex.ru"><img height="50" width="50" src="https://unpkg.com/simple-icons@v7/icons/maildotru.svg" /></a>
 <a href="https://t.me/cRzer"><img height="50" width="50" src="https://unpkg.com/simple-icons@v7/icons/telegram.svg" /></a>
 </p>
-<p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iharwest&layout=compact)](https://github.com/iharwest/github-readme-stats)
-</p>
